@@ -39,7 +39,7 @@ All peripherals were connected directly to the PIC18F4550.
 
 # 🎥 Project Demonstration
 
-[![Project GIF](media/gif_project.gif)](media/proyecto_microcontroladores.mp4)
+[![Project GIF](media/gifProject.gif)](media/proyecto_microcontroladores.mp4)
 
 _Click the GIF to open the project video._
 
