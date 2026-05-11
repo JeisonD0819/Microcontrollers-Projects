@@ -33,13 +33,19 @@ All peripherals were connected directly to the PIC18F4550.
 
 # 📸 Project Assembly
 
-![Project Assembly](media/foto_montaje.jpeg)
+![Project Assembly](Media/foto_montaje.jpeg)
 
 ---
 
-# 🎥 Demonstration Video
+# 🎥 Project Demonstration
 
-[▶️ Watch Project Video](media/Proyecto_Microcontroladores.mp4)
+### Preview
+
+![Project GIF](Media/gifProject.gif)
+
+### Full Video
+
+[▶️ Watch Project Video](Media/Proyecto_Microcontroladores.mp4)
 
 ---
 
@@ -58,6 +64,7 @@ All peripherals were connected directly to the PIC18F4550.
 │
 │── Media/
 │   │── foto_montaje.jpeg
+│   │── gifProject.gif
 │   │── Proyecto_Microcontroladores.mp4
 │
 │── README.md
